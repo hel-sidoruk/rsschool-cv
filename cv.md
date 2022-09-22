@@ -26,6 +26,13 @@
 * Figma, Adobe Photoshop
 ******
 ### Code example:
+```
+function cakes(recipe, available) {
+    if (!Object.keys(recipe).every(item => Object.keys(available).includes(item))) return 0
+    let arr = Object.keys(recipe).map(item => Math.floor(available[item] / recipe[item]))
+    return Math.min(...arr)
+}
+```
 ******
 ### Courses:
 ******
