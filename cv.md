@@ -37,5 +37,10 @@ function cakes(recipe, available) {
 ### Courses:
 ******
 ### Languages:
+* **Russian** - Native 
+* **English** - Intermediate (B1) 
+* **Portuguese** - Basic
 *****
 ### Projects:
+* [https://hel-sidoruk.github.io/starWars/](https://hel-sidoruk.github.io/starWars/)
+* [https://hel-sidoruk.github.io/blanchard/](https://hel-sidoruk.github.io/blanchard/)
